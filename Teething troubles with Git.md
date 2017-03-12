@@ -15,4 +15,4 @@ Still can't find the updated "readable" text, only edit mode after committing.
 
 To create a new branch, you can go to the [main project page](https://github.com/SpiderForum/Initiation) and click on the button that says "Branch: master" and type the name of the new branch.
 
-With that said, you really shouldn't be doing much of your work online through the web interface. Did you already [download git](https://git-scm.com/download/win) onto your local machine, and clone this project?
+With that said, you really shouldn't be doing much of your work online through the web interface. Did you already [download git](https://git-scm.com/download/win) onto your local machine, and clone this project? The git software comes with a gui, but another option is to use [Github's GUI](https://desktop.github.com/) - that will probably give you a closer match between the web interface and your local interface
