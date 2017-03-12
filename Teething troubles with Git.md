@@ -10,3 +10,7 @@ and how to wrap the lines (click on the top right pull-down button in this editi
 The markups include **bold** and *italic* and presumably ***both*** (I bet you can break lines too with br inside angle-brackets)
 You can add URLs inside single square brackets.
 Still can't find the updated "readable" text, only edit mode after committing.
+
+#Branching in the GitHub interface
+
+To create a new branch, you can go to the [main project page](https://github.com/SpiderForum/Initiation) and click on the button that says "Branch: master" and type the name of the new branch.
