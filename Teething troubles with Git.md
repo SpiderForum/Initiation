@@ -235,4 +235,6 @@ nothing to commit, working directory clean
 
 And now the GitHub project has, on the "master" branch, the changes that were made in jonrichfield-patch-1, as well as my typo fix.
 
-By the way, I'm writing this after the fact, so it goes into a new commit on master :-D
+By the way, I'm writing this after the fact, so it goes into a new commit on master :-D 
+
+PPS: Check out the graph view of the project by going to [the "Network" section on the graphs tab](https://github.com/SpiderForum/Initiation/network)
